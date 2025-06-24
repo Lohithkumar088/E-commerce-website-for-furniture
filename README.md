@@ -1,6 +1,6 @@
 # E-commerce-website-for-furniture
 
-# 🛋️ Mobillio Furniture Store
+# 🛋️ ModCasa Furniture Store
 
 A modern and responsive furniture store web application built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. This project demonstrates a smooth user experience with animated transitions, dynamic routing, and a clean, minimalist UI.
 
@@ -35,7 +35,7 @@ A modern and responsive furniture store web application built with **React**, **
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/mobillio-furniture-store.git
+git clone https://github.com/yourusername/ModCasa-furniture-store.git
 cd mobillio-furniture-store
 
 
